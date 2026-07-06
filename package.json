@@ -1,0 +1,33 @@
+{
+  "name": "stron-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio, Crea tu porfolio con esta plantilla de Astro, fácil de personalizar y con un diseño moderno.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev --port 4321",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [
+    "astro",
+    "portfolio",
+    "template",
+    "personal",
+    "website"
+  ],
+  "author": "Stron",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elstron/astro-portfolio"
+  },
+  "packageManager": "pnpm@10.28.2",
+  "dependencies": {
+    "@fontsource-variable/roboto-mono": "^5.2.8",
+    "astro": "^6.0.8",
+    "prettier": "^3.8.1"
+  },
+  "devDependencies": {
+    "prettier-plugin-astro": "^0.14.1"
+  }
+}
