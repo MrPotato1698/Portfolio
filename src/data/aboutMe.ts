@@ -12,7 +12,7 @@ export const aboutMe = {
   skills: ['JavaScript', 'TypeScript', 'Node.js', 'Supabase', 'TailwindCSS', 'Astro', 'PostgreSQL', 'GitHub', 'Adobe Photoshop'],
   hobbies: ['Traveling', 'Cooking', 'Gaming'],
   profile: {
-    picture: '/profile.jpg',
+    picture: '/profile.png',
     altText: "Manu Gonzalez's Profile Picture",
   },
   banner: {
