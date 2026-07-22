@@ -2,7 +2,7 @@
 
 Mi portafolio personal desarrollado con **Astro**, mostrando mis proyectos, habilidades y experiencia como desarrollador de software.
 
-🌐 **Visita el portfolio:** [GitHub Pages URL]
+🌐 **Visita el portfolio:** [GitHub Pages URL](https://mrpotato1698.github.io/Portfolio/)
 
 ## 📋 Contenido
 
